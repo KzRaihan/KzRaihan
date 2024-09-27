@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **phitron.io**
 
-- 🌱 I’m currently learning **Microprocessor working principle**
+- 🌱 I’m currently learning **machine learning**
 
 - 👯 I’m looking to collaborate on **ML engineer**
 

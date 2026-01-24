@@ -14,7 +14,7 @@ Data Scientist | Machine Learning Engineer | Deep Learning & Generative AI Engin
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 I am a **Data Scientist and Machine Learning Engineer** with a strong foundation in **Deep Learning, Generative AI, and applied AI systems**.
 
@@ -27,7 +27,7 @@ I am a **Data Scientist and Machine Learning Engineer** with a strong foundation
 
 📫 **Contact:** kamruzzamanraihan00@gmail.com
 
----
+
 
 ## 🏷️ AI & Engineering Badges
 

@@ -5,10 +5,11 @@
 <!--- banner --->
 
 <img src="./Kz.png" alt="banner">
+<h1>Hey there. I'm Md Kamruzzaman 👋</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kzraihan&label=Profile%20views&color=0e75b6&style=flat" /> 
 </p>
 
-<h1>Hey there. I'm Md Kamruzzaman 👋</h1>
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=500&lines=Data+Scientist;AI and +Machine+Learning+Engineer+;Research+Analyst">
 
